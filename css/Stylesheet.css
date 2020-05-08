@@ -883,7 +883,7 @@ a { color: inherit; }
 }
 .zona{
     margin-top: 5%;
-    box-shadow: #999999;
+
 }
 
 
@@ -892,10 +892,10 @@ a { color: inherit; }
 }
 
 
-.hiddenElm {display:none;!important;}
+.hiddenElm {display:none !important;}
 
 
-.showElm {display:block; !important;}
+.showElm {display:block  !important;}
 
 
 /*//////////////////////////////aside//////////////////////////////*/
